@@ -1,0 +1,6 @@
+{
+  "name": "ToolNova",
+  "description": "Free Online Tools. Fast, Simple & Secure. Production-ready PDF, Image, AI, and Calculation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
